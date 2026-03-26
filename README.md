@@ -2,7 +2,7 @@
 Nombre del proyecto y una breve explicación de qué hace y por qué es útil.
 
 # 🗂️ Estructura del proyecto:
-
+```bash
 gestion-info/
 ├─ README.md                         
 ├─ requirements.txt
@@ -15,7 +15,7 @@ gestion-info/
       ├─ service.py                 # lógica (CRUD)
       ├─ file.py                    # persistencia (leer/guardar)
       ├─ validate.py                # validaciones y helpers
-      └─ integration.py             # faker / pandas / requests 
+      └─ integration.py             # faker / pandas / requests
 
 # ▶️ Instalación: 
 Pasos claros para configurar el entorno y ejecutar el proyecto.
