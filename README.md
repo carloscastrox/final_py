@@ -1,7 +1,7 @@
-# 📘 Título y Descripción: 
+## 📘 Título y Descripción: 
 Nombre del proyecto y una breve explicación de qué hace y por qué es útil.
 
-# 🗂️ Estructura del proyecto:
+## 🗂️ Estructura del proyecto:
 ```bash
 gestion-info/
 ├─ README.md                         
@@ -16,15 +16,16 @@ gestion-info/
       ├─ file.py                    # persistencia (leer/guardar)
       ├─ validate.py                # validaciones y helpers
       └─ integration.py             # faker / pandas / requests
+```
 
-# ▶️ Instalación: 
+## ▶️ Instalación: 
 Pasos claros para configurar el entorno y ejecutar el proyecto.
 
-# Uso: 
+## Uso: 
 Ejemplos de cómo utilizar la aplicación o biblioteca.
 
-# Créditos/Autores: 
+## Créditos/Autores: 
 Quién mantiene el proyecto y contribuciones.
 
-# Licencia: 
+## Licencia: 
 Información sobre el uso permitido del código.
