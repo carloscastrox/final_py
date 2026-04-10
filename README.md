@@ -17,7 +17,7 @@ gestion-info/
 │      ├─ validate.py                # validaciones y helpers
 │      └─ integration.py             # faker / pandas / requests
 └─ test/
-			└─ tests.py                   # archivo con test (2 a 4 funciones)
+       └─ tests.py                   # archivo con test (2 a 4 funciones)
 ```
 
 ## ▶️ Instalación: 
