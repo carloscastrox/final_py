@@ -15,8 +15,9 @@ gestion-info/
 │      ├─ service.py                 # lógica (CRUD)
 │      ├─ file.py                    # persistencia (leer/guardar)
 │      ├─ validate.py                # validaciones y helpers
-│     └─ integration.py             # faker / pandas / requests
+│      └─ integration.py             # faker / pandas / requests
 └─ test/
+			└─ tests.py                   # archivo con test (2 a 4 funciones)
 ```
 
 ## ▶️ Instalación: 
