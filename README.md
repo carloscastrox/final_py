@@ -9,13 +9,14 @@ gestion-info/
 ├─ .gitignore
 ├─ data/
 │  └─ records.json                  # o registros.csv / registros.txt
-└─ src/
-      ├─ main.py                    # punto de entrada
-      ├─ menu.py                    # interfaz de consola (UI)
-      ├─ service.py                 # lógica (CRUD)
-      ├─ file.py                    # persistencia (leer/guardar)
-      ├─ validate.py                # validaciones y helpers
-      └─ integration.py             # faker / pandas / requests
+├─ src/
+│      ├─ main.py                    # punto de entrada
+│      ├─ menu.py                    # interfaz de consola (UI)
+│      ├─ service.py                 # lógica (CRUD)
+│      ├─ file.py                    # persistencia (leer/guardar)
+│      ├─ validate.py                # validaciones y helpers
+│     └─ integration.py             # faker / pandas / requests
+└─ test/
 ```
 
 ## ▶️ Instalación: 
