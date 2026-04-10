@@ -8,7 +8,7 @@ gestion-info/
 ├─ requirements.txt
 ├─ .gitignore
 ├─ data/
-│  └─ records.json                  # o registros.csv / registros.txt
+│  └─ records.json                   # o registros.csv / registros.txt
 ├─ src/
 │      ├─ main.py                    # punto de entrada
 │      ├─ menu.py                    # interfaz de consola (UI)
